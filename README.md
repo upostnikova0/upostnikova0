@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="counter" align="center">
+    <img src="https://komarev.com/ghpvc/?username=upostnikova0&style=flat-square&color=blue" alt=""/>
+<h1>
+  Привет! Я - Юля.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-<!--
-**upostnikova0/upostnikova0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: Мои пет проекты :
 
-Here are some ideas to get you started:
+- :tickets: [Explore With Me](https://github.com/upostnikova0/java-explore-with-me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :jeans: [Share It](https://github.com/upostnikova0/java-shareit)
+
+- :top: [Filmorate](https://github.com/upostnikova0/java-filmorate)
+  
+ :mailbox: Для связи со мной: [Telegram](https://t.me/upostnikova0)
