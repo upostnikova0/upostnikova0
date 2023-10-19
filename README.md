@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <h1>Hello, everyone! My name is Yuliya. And I'm Java Developer.</h1>
+  <h1>Привет! Меня зовут Юля. Я - Java разработчик.</h1>
 </div>
 
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Технологический стэк : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -13,7 +13,9 @@
 </div>
 
 
-### :woman_technologist: My projects:
+### :woman_technologist: Мои проекты :
+- :taco: [Taco Cloud](https://github.com/upostnikova0/taco-cloud) - приложение, с помощью которого можно заказать тако через интернет. Taco Cloud дает своим клиентам возможность выразить свои творческие способности и составить свой рецепт тако из богатой палитры ингредиентов.
+  
 - :tickets: [Explore With Me](https://github.com/upostnikova0/java-explore-with-me) - приложение-афиша, в которой можно предложить какое-либо событие от выставки до похода в кино и собрать компанию для участия в нём.
 Проект реализован в виде 2 сервисов:
 1. Основной сервис содержит всё необходимое для работы продукта;
