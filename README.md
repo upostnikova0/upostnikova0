@@ -30,5 +30,5 @@
 Технологический стэк: Java 11, Spring Boot, Spring Data Jpa, JUnit, Maven, SQL, H2
 
   
- :mailbox: How to reach me: [Telegram](https://t.me/upostnikova0)
+ :mailbox: Контакты для связи со мной: [Telegram](https://t.me/upostnikova0)
 
